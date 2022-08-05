@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActivityResultApi</string>
+    <string name="edit_message">Edit message</string>
+    <string name="input_text">Input text</string>
+    <string name="save">save</string>
+    <string name="cancel">cancel</string>
+    <string name="request_permission">Request permission</string>
+    <string name="pick_image">Pick image</string>
+</resources>
